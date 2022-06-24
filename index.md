@@ -24,3 +24,7 @@ git commit -m "Name of commit"
 ```
 git log <№commit>
 ```
+## Cравнить рабочую директорию и индекс 
+```
+git diff
+```

@@ -16,3 +16,7 @@ git add <filename>
 ```
 git status
 ```
+## Зафиксировать в коммите проиндексированные изменения
+```
+git commit -m "Name of commit"
+```

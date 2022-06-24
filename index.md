@@ -20,3 +20,7 @@ git status
 ```
 git commit -m "Name of commit"
 ```
+## Показать коммиты в указанной ветке
+```
+git log <№commit>
+```

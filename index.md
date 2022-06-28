@@ -57,3 +57,5 @@ git rebase <branch to rebase>
 ```
 git merge <branch name>
 ```
+
+Перешел в ветку мастер и создал изменения в ней и опять сохранил и создал коммит.

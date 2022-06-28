@@ -42,3 +42,8 @@ git commit -m <commmit message>
 ```
 git branch <branch name>
 ```
+## Слияние веток
+Для слияния текущей ветки с другой нужно ввести комманду
+```
+git merge <branch name>
+```

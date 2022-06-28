@@ -52,3 +52,8 @@ git merge <branch name>
 ```
 git rebase <branch to rebase>
 ```
+## Слияние веток
+Для слияния текущей ветки с другой нужно ввести комманду
+```
+git merge <branch name>
+```

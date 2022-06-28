@@ -37,3 +37,8 @@ git checkout <№>
 ```
 git commit -m <commmit message>
 ```
+## Создание новой ветки
+Для создания новой ветки введите комманду
+```
+git branch <branch name>
+```

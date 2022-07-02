@@ -62,3 +62,9 @@ git merge <branch name>
 ```
 git clone <url to repository>
 ```
+## Сброс изменений
+
+Для сброса изменений в текущей ветке введите комманду
+```
+git reset <commit hash>
+```
